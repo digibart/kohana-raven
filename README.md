@@ -2,14 +2,13 @@
 
 Raven is a client for sentry. The [PHP library](https://github.com/getsentry/raven-php) is by [getsentry](http://www.getsentry.com).
 
+This fork is more suitable to add as a submodule. 
+
 Download
 --------
 
-```bash
-git clone git://github.com/tony/kohana-raven.git
-git submodule init
-git submodule update
-```
+`git submodule add git://github.com/digibart/kohana-raven.git`
+
 
 Installation
 ------------
